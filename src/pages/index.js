@@ -27,7 +27,7 @@ class IndexPage extends Component {
         />
           <center>
           
-            <h3>Normala Sari Pane</h3>
+            <h3>Dedi Rustandi</h3>
             <p><ins>AGEN RESMI PT ANEKA BUSA INDONESIA</ins></p>
             <br/>
 
