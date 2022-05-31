@@ -27,7 +27,7 @@ class IndexPage extends Component {
         />
           <center>
           
-            <h3> indrawasih(iin)</h3>
+            <h3>Hj. Irah</h3>
             <p><ins>AGEN RESMI PT ANEKA BUSA INDONESIA</ins></p>
             <br/>
 
